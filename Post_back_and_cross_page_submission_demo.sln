@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post_back_and_cross_page_submission_demo", "Post_back_and_cross_page_submission_demo\Post_back_and_cross_page_submission_demo.csproj", "{A8BFBCEB-898E-4E3E-9AF8-F04CB36FC08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BFBCEB-898E-4E3E-9AF8-F04CB36FC08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BFBCEB-898E-4E3E-9AF8-F04CB36FC08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BFBCEB-898E-4E3E-9AF8-F04CB36FC08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BFBCEB-898E-4E3E-9AF8-F04CB36FC08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D03D068-DA97-4CA7-AE6A-D095EDCB3846}
+	EndGlobalSection
+EndGlobal
