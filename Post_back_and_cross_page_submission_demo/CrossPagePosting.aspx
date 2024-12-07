@@ -16,7 +16,7 @@
           runat="server"
           Text="Cross Page Greet"
         /><br/><br/>
-    <asp:LinkButton ID="PostBackPostingDemoLink" runat="server">Cross Page Posting Demo</asp:LinkButton>
+    <asp:LinkButton ID="PostBackPostingDemoLink" runat="server">Post Back Posting Demo</asp:LinkButton>
 </form>
 <script runat="server">
     void Page_Load(Object sender, EventArgs e)
